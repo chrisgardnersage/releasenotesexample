@@ -6,3 +6,4 @@ add some text 3
 add some text 4
 add some text 5
 add some text 6
+add some text 7
